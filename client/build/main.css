@@ -1,0 +1,49 @@
+#new-film {
+  min-height: 100%;
+  height: auto;
+  height: 500px;
+  background-color: red;
+  }
+
+#new-button {
+  font-size: 24px;
+}
+
+#film-table {
+  font-size: 24px;
+  line-height: 40px;
+  width: 500px;
+}
+
+#left-col {
+  width: 200px;
+  border: 1px solid green;
+}
+
+#right-col {
+  width: 300px;
+  border: 1px solid blue;
+}
+
+#input-text {
+  width: 300px;
+  font-size: 24px;
+  word-wrap: normal;
+}
+
+#last-row {
+  height: 200px;
+}
+
+#text-area {
+  font-size: 16px;
+  height: 200px;
+  width: 300px;
+  justify-content: top;
+  word-wrap: all;
+}
+
+#post-button {
+  font-size: 24px;
+  margin-left: 500px;
+}
